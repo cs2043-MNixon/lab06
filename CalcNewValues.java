@@ -1,5 +1,5 @@
 import java.io.*;
-
+//another change
 public class CalcNewValues{
 	
   public static void main(String[] args){
